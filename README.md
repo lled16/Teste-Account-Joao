@@ -15,6 +15,8 @@
 ### ->Em DataBase Name, preferencialmente inserir "eleicao"
 ### -> "Publish".
 
+## Para executar, lembre-se de alterar a string de conexão na classe DataContext.cs 
+
 ## Vote consciente !
 
 
