@@ -1,13 +1,11 @@
-# Parabéns Desenvolvedores!
 
-Se você recebeu este teste é porque você foi um dos selecionados para a fase de conhecimento da vaga da Account Tech.
-
-Mas vamos para o que importa: O Teste.
 
 ## Urna Eletrônica
 
 ### Instruções:
 
-## - Utilize a urna com fones de ouvido, ou o som ativado !
+## - Utilize a urna com fones de ouvido, ou som ativado !
+## - Para o banco de dados, utilizei o próprio bando integrado do Visual Studio, mas de qualquer maneira, o arquivo para gerar um novo via SQL está nos arquivos da urna
+
 
 
