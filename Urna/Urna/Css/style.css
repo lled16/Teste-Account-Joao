@@ -1,0 +1,157 @@
+
+body{
+    padding: 0;
+    overflow: hidden;
+    margin: 0;
+}
+
+table{
+    table-layout:fixed;
+}
+.container-fluid{
+background-color: #fff;
+height: 100vh;
+width: 100vw;
+
+}
+button{
+    width: 12vw;
+}
+.urna{
+    height: 100vw;
+    background-color: lightgray;
+
+    
+  
+}
+.abaixar{
+    padding-top: 50px;
+}
+.campoDigitado, .campoInfo{
+    border:1px solid rgb(255, 255, 255, 0.1); 
+    align-items: center; 
+    height: 40vh; 
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+
+
+ .campoCad{
+    border:1px solid rgb(255, 255, 255, 0.1); 
+    align-items: center; 
+    height: 40vh; 
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    background-color: white;
+    color: white;
+    overflow: hidden;
+}
+
+.titulosCadastro, .campoCadastro{
+    align-items: left; 
+    justify-content: center;
+    display: flex;
+    color: #fff;
+    
+    
+}
+
+.campoInfo{
+    font-size: 50px;
+    
+    
+}
+.campoDigitado{
+    font-size: 200px;
+}
+
+.display{
+    size: 500px;
+    font-weight: bold;
+}
+.screen{
+    padding-top: 5px;
+    border: solid #5B5B5B 5px;
+    height: 100vh;
+    align-items: center;
+    background-color: black;
+   
+}
+
+.linhaDigitavelDisplay{
+  position: inherit;
+    top: 10vh;
+    
+    
+}
+.imgCandidato{
+    border:1px solid rgb(255, 255, 255, 0.1); 
+    border-radius: 20px;
+}
+.numeroCandidato{
+    position: inherit;
+    top: 10vh;
+}
+
+
+.numbers{
+    
+   
+    height: 100vh;
+    background-color: #fff;
+}
+.tabelaNumeros{
+    height: max-content;
+    width: 100%;
+    text-align: center;
+}
+.tabelaCandidatos{
+    height: 2vh;
+    width: 100%;
+    text-align: center;
+   
+}
+.tituloNumeros{
+    text-align: center;
+    font-weight: bold;
+    background-color: lightgray;
+    height: 10vh;
+    
+}
+.linhaDigitavel{
+    height: 15vh;
+}
+.btn-light{
+    border: solid black 2px !important;
+}
+
+td{
+    font-weight: bold;
+    font-size: 20px;
+   
+}
+
+.botaoNumero{
+    background-color: black !important;
+    color: #fff !important;
+    width: 80%;
+    -webkit-box-shadow: 0px 0px 12px -2px #000000; 
+    box-shadow: 0px 0px 12px -2px #000000;
+    font-size: 45px;
+}
+textarea{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    resize: none;
+  
+    
+}
+
+

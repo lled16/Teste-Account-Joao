@@ -1,0 +1,54 @@
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.exe
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.deps.json
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.runtimeconfig.json
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.dll
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.pdb
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.csproj.AssemblyReference.cache
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.AssemblyInfoInputs.cache
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.AssemblyInfo.cs
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\scopedcss\bundle\minhaAPI.styles.css
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.csproj.CopyComplete
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.dll
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\refint\minhaAPI.dll
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.pdb
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.genruntimeconfig.cache
+C:\Users\Capys - João\source\repos\minhaAPI\minhaAPI\obj\Debug\net6.0\ref\minhaAPI.dll
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.exe
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.deps.json
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.runtimeconfig.json
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.dll
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\minhaAPI.pdb
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.csproj.AssemblyReference.cache
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.AssemblyInfoInputs.cache
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.AssemblyInfo.cs
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.csproj.CoreCompileInputs.cache
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\scopedcss\bundle\minhaAPI.styles.css
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.csproj.CopyComplete
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.dll
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\refint\minhaAPI.dll
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.pdb
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\minhaAPI.genruntimeconfig.cache
+C:\Users\55319\Documents\Urna\minhaAPI\minhaAPI\obj\Debug\net6.0\ref\minhaAPI.dll
