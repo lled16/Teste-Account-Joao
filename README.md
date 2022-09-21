@@ -7,7 +7,7 @@
 ### - Utilize a urna com fones de ouvido, ou som ativado !
 
 # - Para o banco de dados:
-###  Utilizei o próprio bando integrado do Visual Studio, na pasta "Urna" terá o arquivo exportado
+###  Utilizei o próprio banco integrado do Visual Studio, na pasta "Urna" terá o arquivo exportado
 ### . Para adicioná-lo : No SQL Server Object do visual studio 
 ### -> Botão direito em "Databases" 
 ### -> "Publish Data-tier application" 
