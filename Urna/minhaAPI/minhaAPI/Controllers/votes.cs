@@ -61,13 +61,22 @@ namespace minhaAPI.Controllers
 
 
                     }
-                   if(vt.IdCandidato == 0)
+                  
+                }
+
+            }
+
+
+            foreach (registroVoto vt in voto)
+            {
+
+                    if (vt.IdCandidato == 0)
                     {
-                       
+
                         var NomeCom = "Branco";
                         var Vice = "Branco";
                         var Info = "Branco";
-                        var QVotos = QtVotos;
+                        var QVotos = vt.QtdVotos;
 
                         var dataVoto = DateTime.Now;
 
@@ -81,16 +90,14 @@ namespace minhaAPI.Controllers
                             QtdVotos = QVotos
                         };
                         QtdVotos.Add(RtrnVotos);
-                      
-                    }
-                }
 
+                    
+
+                }
             }
 
-           
 
-
-            return QtdVotos;
+            return QtdVotos.OrderByDescending(x => x.QtdVotos).ToList();
 
         }
 

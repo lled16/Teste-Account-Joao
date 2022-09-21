@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Capys - João\\Documents\\Eu\\Urna\\minhaAPI\\minhaAPI\\eleicao2022.csproj": {}
+    "C:\\Users\\55319\\Documents\\urna\\Urna\\minhaAPI\\minhaAPI\\eleicao2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Capys - João\\Documents\\Eu\\Urna\\minhaAPI\\minhaAPI\\eleicao2022.csproj": {
+    "C:\\Users\\55319\\Documents\\urna\\Urna\\minhaAPI\\minhaAPI\\eleicao2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Capys - João\\Documents\\Eu\\Urna\\minhaAPI\\minhaAPI\\eleicao2022.csproj",
+        "projectUniqueName": "C:\\Users\\55319\\Documents\\urna\\Urna\\minhaAPI\\minhaAPI\\eleicao2022.csproj",
         "projectName": "eleicao2022",
-        "projectPath": "C:\\Users\\Capys - João\\Documents\\Eu\\Urna\\minhaAPI\\minhaAPI\\eleicao2022.csproj",
-        "packagesPath": "C:\\Users\\Capys - João\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Capys - João\\Documents\\Eu\\Urna\\minhaAPI\\minhaAPI\\obj\\",
+        "projectPath": "C:\\Users\\55319\\Documents\\urna\\Urna\\minhaAPI\\minhaAPI\\eleicao2022.csproj",
+        "packagesPath": "C:\\Users\\55319\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\55319\\Documents\\urna\\Urna\\minhaAPI\\minhaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Capys - João\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\55319\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

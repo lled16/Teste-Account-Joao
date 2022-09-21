@@ -151,7 +151,7 @@ function registraVoto(branco) {
         if (data == "Voto Registrado!") {
             limpaDigitado();
             somRegistrado();
-            botaoConfirma.attributes('disabled');
+           
         } else {
             limpaDigitado();
             var msgmVazio = data;

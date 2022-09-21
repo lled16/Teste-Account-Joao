@@ -13,9 +13,9 @@ namespace eleicao2022
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 
-            //optionsBuilder.UseSqlServer("Data Source= (localdb)\\MSSQLLocalDB;Initial Catalog=eleicao;Integrated Security=True;Pooling=False;MultipleActiveResultSets=True");
+            optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB;Initial Catalog=eleicao;Integrated Security=True;Pooling=False;MultipleActiveResultSets=True");
 
-            optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=eleicao;Integrated Security=True;Pooling=False;MultipleActiveResultSets=True");
+            //optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=eleicao;Integrated Security=True;Pooling=False;MultipleActiveResultSets=True");
 
 
         }
